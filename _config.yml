@@ -1,0 +1,28 @@
+name: pedigo
+favicon: null
+layout_spectrum: 0.08704390819184482
+typography_spectrum: 0.4530683937482536
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.8621008144691586
+  lightness: 0.11634073359891772
+  saturation: 0.9934295462444425
+  rhythmicContrast: 0.8593506407923996
+purpose: []
